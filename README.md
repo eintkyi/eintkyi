@@ -18,7 +18,7 @@ A data scientist with more than 2 years of professional experience. I have excel
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>eintmyatkyi@gmail.com</a>
+   📫 How to reach me: <a href='mailto:eintmyatkyi@gmail.com'>eintmyatkyi@gmail.com</a>
 </p>
 
 
