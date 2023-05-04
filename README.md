@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdlMTM1ZGE5ZjQwNTliMWEzNjhkMjAzY2VjNGEwNjM2N2UwY2ZjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46CdeuaLbTjhzZWE/giphy.gif" width="100"/>
+
+</div>
+
 ### Hi, I'm Eint 👋  
 
 A data scientist with more than 2 years of professional experience. I have excellent knowledge on data extraction/manipulation, data wrangling and explatory data analysis.
@@ -11,11 +16,9 @@ A data scientist with more than 2 years of professional experience. I have excel
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/eintkyi/">
+   📫 How to reach me: <a href="https://www.linkedin.com/in/eintkyi/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:eintmyatkyi@gmail.com'>eintmyatkyi@gmail.com</a>
+  
 </p>
 
 
@@ -42,4 +45,11 @@ A data scientist with more than 2 years of professional experience. I have excel
        <img width="175px" src="https://komarev.com/ghpvc/?username=eintkyi&color=DE002D">
    </a>
 </div>
+
+<div id="footer" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3ODI5ZTViMDUxMTFhMzRmZTlkYTIwZTI3ZGY3NmY2ODBiNzY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26BRwnEdWjXAjbhpm/giphy.gif" width="100"/>
+
+</div>
+
+
 
