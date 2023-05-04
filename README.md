@@ -1,4 +1,4 @@
-### Hi, I'm Eint 👋
+### Hi, I'm Eint 👋  
 
 A data scientist with more than 2 years of professional experience. I have excellent knowledge on data extraction/manipulation, data wrangling and explatory data analysis.
 
