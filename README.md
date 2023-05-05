@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdlMTM1ZGE5ZjQwNTliMWEzNjhkMjAzY2VjNGEwNjM2N2UwY2ZjZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l46CdeuaLbTjhzZWE/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTA4M2NhNjgzMWIwN2IzN2IyZjIwMmFlOTcwYzZkZWQzNTdiZmY1YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2z956IUc3J0noEOXUL/giphy.gif" width="100"/>
 
 </div>
 
@@ -47,7 +47,7 @@ A data scientist with more than 2 years of professional experience. I have excel
 </div>
 
 <div id="footer" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY3ODI5ZTViMDUxMTFhMzRmZTlkYTIwZTI3ZGY3NmY2ODBiNzY4NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/26BRwnEdWjXAjbhpm/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Y1YmE2NTYxM2UxNmM4OTZiNzVjYzc3MzBhNzM4NDgyYjZjZDlhZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2aJWj7YvyGLYjGtgbZ/giphy.gif" width="50"/>
 
 </div>
 
