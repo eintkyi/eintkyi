@@ -10,9 +10,9 @@ A data scientist with more than 2 years of professional experience. I have excel
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=eintkyi&show_icons=true&theme=merko&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=eintkyi&show_icons=true&theme=merko&count_private=true"/></a>
+           src="https://github-readme-stats-liard-eight-74.vercel.app/api?username=eintkyi&show_icons=true&theme=merko&count_private=true"/></a>
    <a href="https://github.com/eintkyi/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eintkyi&layout=compact&show_icons=true&theme=dark"/></a>
+                                                                  src="https://github-readme-stats-liard-eight-74.vercel.app/api/top-langs/?username=eintkyi&layout=compact&show_icons=true&theme=dark"/></a>
 </p>
 
 <p align='center'>
